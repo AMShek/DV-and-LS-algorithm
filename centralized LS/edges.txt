@@ -1,0 +1,7 @@
+# virtual link between routers.
+# Format: <Router1> <Router2> <Link cost>
+A E 1
+B E 2
+B D 3
+D C 2
+A C 3
